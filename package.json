@@ -1,0 +1,25 @@
+{
+  "name": "15.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel script.js --watch --out-file script-compiled.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magdacz/15.4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/magdacz/15.4/issues"
+  },
+  "homepage": "https://github.com/magdacz/15.4#readme"
+}
